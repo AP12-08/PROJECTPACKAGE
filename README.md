@@ -1,1 +1,2 @@
-# PROJECTPACKAGE
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
